@@ -30,7 +30,7 @@ a {
 a:hover {
   background: #eeeded;
   color: #8d0101;
-  transition: all 0.3 ease;
+  transition: all 0.3s ease;
 }
 
 .wrap {
