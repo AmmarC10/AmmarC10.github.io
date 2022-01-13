@@ -136,6 +136,18 @@ footer {
     max-width: 40%;
     height: auto;
   }
+  
+  .certificates img {
+    float: left;
+    margin: 20px;
+    max-width: 40%;
+    height: 110px;
+  }
+
+  .certificates img:hover {
+    transform: scale(1.5);
+  }
+  
   .contact-list {
     display: flex;
     justify-content: center;
